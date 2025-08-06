@@ -1,5 +1,3 @@
-# .github/workflows/release.yml
-
 name: Create Release
 
 on:
@@ -14,14 +12,11 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+      issues: write
 
     steps:
       - name: Run Release Please
         id: release
-        # ✅ CORRECTED: Use the new, official action
         uses: googleapis/release-please-action@v4
         with:
-          # ✅ CORRECTED: 'package-name' is deprecated. 
-          # For a simple repository, you don't need any extra parameters.
-          # The action will manage one release for the whole repo by default.
           release-type: simple
