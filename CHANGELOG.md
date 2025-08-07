@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.7](https://github.com/virajjayarathna/release_automation/compare/v1.0.6...v1.0.7) (2025-08-07)
+
+
+### Bug Fixes
+
+* update auto-merge workflow to trigger for specific user ([e3b863a](https://github.com/virajjayarathna/release_automation/commit/e3b863a74adb6c95b0638abbd5f6add207e0d9c8))
+
 ## [1.0.6](https://github.com/virajjayarathna/release_automation/compare/v1.0.5...v1.0.6) (2025-08-07)
 
 
