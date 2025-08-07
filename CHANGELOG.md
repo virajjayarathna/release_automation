@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.3](https://github.com/virajjayarathna/release_automation/compare/v1.0.2...v1.0.3) (2025-08-07)
+
+
+### Bug Fixes
+
+* 1 ([d51e38f](https://github.com/virajjayarathna/release_automation/commit/d51e38f83743e6c6b9ab2874e3176481589e210e))
+* 2Merge pull request [#9](https://github.com/virajjayarathna/release_automation/issues/9) from virajjayarathna/dev ([d51e38f](https://github.com/virajjayarathna/release_automation/commit/d51e38f83743e6c6b9ab2874e3176481589e210e))
+
 ## [1.0.2](https://github.com/virajjayarathna/release_automation/compare/v1.0.1...v1.0.2) (2025-08-06)
 
 
