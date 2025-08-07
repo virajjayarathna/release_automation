@@ -10,8 +10,7 @@ on:
 jobs:
   automerge:
     runs-on: ubuntu-latest
-    
-    if: github.actor == 'github-actions[bot]'
+    if: github.actor == 'virajayarathna'
 
     permissions:
       pull-requests: write
