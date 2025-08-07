@@ -79,21 +79,6 @@ def get_comment_syntax(file_path):
     else:
         return '//', ''  # default
 
-def add_success_comment(file_path):
-    """Add success comment to end of file using appropriate syntax."""
-    try:
-        comment_start, comment_end = get_comment_syntax(file_path)
-        with open(file_path, 'a') as file:
-            if comment_end:
-                file.write(f"\n{comment_start} succesfully decrypted. {comment_end}\n")
-                file.write(f"{comment_start} This code is property of KingIT {comment_end}\n")
-            else:
-                file.write(f"\n{comment_start} succesfully decrypted.\n")
-                file.write(f"{comment_start} This code is property of KingIT\n")
-        return True
-    except Exception as e:
-        print(f"Error adding success comment: {e}")
-        return False
 
 def main():
     # Get input from user
