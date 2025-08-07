@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.8](https://github.com/virajjayarathna/release_automation/compare/v1.0.7...v1.0.8) (2025-08-07)
+
+
+### Bug Fixes
+
+* implement get_comment_syntax function to determine comment style… ([7718642](https://github.com/virajjayarathna/release_automation/commit/77186423647460641087c92c63541a7e25d92d11))
+* implement get_comment_syntax function to determine comment styles based on file extension ([b74e497](https://github.com/virajjayarathna/release_automation/commit/b74e4974051c8d8f4b520b0472058fb6c2ffc0bf))
+
 ## [1.0.7](https://github.com/virajjayarathna/release_automation/compare/v1.0.6...v1.0.7) (2025-08-07)
 
 
