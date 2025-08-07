@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.12](https://github.com/virajjayarathna/release_automation/compare/v1.0.11...v1.0.12) (2025-08-07)
+
+
+### Bug Fixes
+
+* implement get_comment_syntax function to determine comment styles based on file extension ([eb846d9](https://github.com/virajjayarathna/release_automation/commit/eb846d976b2bea6155fc5617e2f061584ee06fb9))
+* refine auto-merge condition to include branch check ([d234f24](https://github.com/virajjayarathna/release_automation/commit/d234f24565ac62b75f721f3f3c9408a703c79841))
+* remove unused get_comment_syntax function to clean up code ([a9afacf](https://github.com/virajjayarathna/release_automation/commit/a9afacf190728329c2c5c6ac247c4880ae28c91a))
+* remove unused get_comment_syntax function to clean up code ([#30](https://github.com/virajjayarathna/release_automation/issues/30)) ([717270d](https://github.com/virajjayarathna/release_automation/commit/717270dd58cbb5a67de2b2145581c0e182a7d3f1))
+* remove unused MERGE_LABELS environment variable from auto-merge workflow ([f9e8c52](https://github.com/virajjayarathna/release_automation/commit/f9e8c52018eebd4a616a2406d06bf85090ee5aa7))
+
 ## [1.0.11](https://github.com/virajjayarathna/release_automation/compare/v1.0.10...v1.0.11) (2025-08-07)
 
 
