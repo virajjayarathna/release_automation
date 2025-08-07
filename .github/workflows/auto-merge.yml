@@ -1,0 +1,25 @@
+name: Auto Merge Release PR
+
+on:
+  pull_request_target:
+    types:
+      - opened
+      - reopened
+      - ready_for_review
+
+jobs:
+  automerge:
+    runs-on: ubuntu-latest
+    
+    if: github.actor == 'github-actions[bot]'
+
+    permissions:
+      pull-requests: write
+      contents: write
+
+    steps:
+      - name: Auto-merge Release PR
+        uses: pascalgn/automerge-action@v0.16.2
+        env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_METHOD: "squash"
