@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.9](https://github.com/virajjayarathna/release_automation/compare/v1.0.8...v1.0.9) (2025-08-07)
+
+
+### Bug Fixes
+
+* update condition for auto-merge to use pull request user login ([0f5fab1](https://github.com/virajjayarathna/release_automation/commit/0f5fab1f083df895bacb03d7b6bccdd6c27c5830))
+* update condition for auto-merge to use pull request user login ([434d288](https://github.com/virajjayarathna/release_automation/commit/434d2889af684c5ab07e834437acbcd954953782))
+
 ## [1.0.8](https://github.com/virajjayarathna/release_automation/compare/v1.0.7...v1.0.8) (2025-08-07)
 
 
