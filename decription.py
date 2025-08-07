@@ -32,19 +32,6 @@ def decrypt_encoded_string(encoded_string, key):
         print(f"Error decrypting: {e}")
         return None
 
-def get_comment_pattern(file_path):
-    """Get the regex pattern for extracting OWNER_ID based on file extension."""
-    ext = os.path.splitext(file_path)[1].lower()
-    if ext in ['.js', '.jsx', '.ts', '.tsx']:
-        return r"//.*OWNER_ID:\s*(\S+)"
-    elif ext == '.py':
-        return r"#.*OWNER_ID:\s*(\S+)"
-    elif ext == '.css':
-        return r"/\*.*OWNER_ID:\s*(\S+).*\*/"
-    elif ext == '.html':
-        return r"<!--.*OWNER_ID:\s*(\S+).*-->"
-    else:
-        return r"//.*OWNER_ID:\s*(\S+)"  # default to //
 
 
 
