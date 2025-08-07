@@ -12,14 +12,17 @@ on:
 jobs:
   automerge:
     runs-on: ubuntu-latest
-    
-    if: github.event.pull_request.user.login == 'virajayarathna'
-
     permissions:
       pull-requests: write
       contents: write
 
     steps:
+
+      - name: Dump GitHub context
+        env:
+          GITHUB_CONTEXT: ${{ toJSON(github) }}
+        run: echo "$GITHUB_CONTEXT"
+
       - name: Auto-merge Release PR
         uses: pascalgn/automerge-action@v0.16.2
         env:
