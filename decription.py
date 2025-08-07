@@ -4,7 +4,7 @@ import hashlib
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 import sys
-import re
+
 
 def decrypt_encoded_string(encoded_string, key):
     """Decrypt the encoded string back to the project name using AES-256-CBC."""
@@ -30,8 +30,7 @@ def decrypt_encoded_string(encoded_string, key):
         return decrypted.decode('utf-8')
     except Exception as e:
         print(f"Error decrypting: {e}")
-        return None
-
+        return
 
 
 
