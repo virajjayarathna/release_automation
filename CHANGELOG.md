@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.6](https://github.com/virajjayarathna/release_automation/compare/v1.0.5...v1.0.6) (2025-08-07)
+
+
+### Bug Fixes
+
+* add missing token parameter to release action in workflow ([be16dc7](https://github.com/virajjayarathna/release_automation/commit/be16dc70caef5e13de5c92b591b3aeee7dd55a44))
+* add missing token parameter to release action in workflow ([787f02f](https://github.com/virajjayarathna/release_automation/commit/787f02f785085cfa1522b067ddd08b36b1042d7e))
+* remove get_comment_syntax function to simplify code ([621d337](https://github.com/virajjayarathna/release_automation/commit/621d33792f8a7f64844b32b17c4807db1151069b))
+* remove get_comment_syntax function to simplify code ([c7aa3a5](https://github.com/virajjayarathna/release_automation/commit/c7aa3a545e0feb7e98615056c6e2300ee237f0ba))
+
 ## [1.0.5](https://github.com/virajjayarathna/release_automation/compare/v1.0.4...v1.0.5) (2025-08-07)
 
 
