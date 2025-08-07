@@ -46,24 +46,7 @@ def get_comment_pattern(file_path):
     else:
         return r"//.*OWNER_ID:\s*(\S+)"  # default to //
 
-def extract_encrypted_string_from_file(file_path):
-    """Extract the single complete encrypted string from the OWNER_ID line."""
-    try:
-        with open(file_path, 'r') as file:
-            content = file.read()  # Read the entire file as a single string
-        
-        pattern = get_comment_pattern(file_path)
-        
-        match = re.search(pattern, content, re.DOTALL)
-        if match:
-            encrypted_string = match.group(1).strip()
-            return encrypted_string
-        
-        print("Warning: Could not find OWNER_ID in the file.")
-        return None
-    except Exception as e:
-        print(f"Error extracting encrypted string from file: {e}")
-        return None
+
 
 
 
