@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.5](https://github.com/virajjayarathna/release_automation/compare/v1.0.4...v1.0.5) (2025-08-07)
+
+
+### Bug Fixes
+
+* remove add_success_comment function to streamline code ([05057b7](https://github.com/virajjayarathna/release_automation/commit/05057b7ec8d124dec9ff485fc3855812f6a5f84e))
+* remove add_success_comment function to streamline code ([06c83ee](https://github.com/virajjayarathna/release_automation/commit/06c83ee4fb5a8621159ef497b5a04a25dadc8fcc))
+
 ## [1.0.4](https://github.com/virajjayarathna/release_automation/compare/v1.0.3...v1.0.4) (2025-08-07)
 
 
