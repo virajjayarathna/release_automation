@@ -1,3 +1,5 @@
+# In .github/workflows/auto-merge.yml
+
 name: Auto Merge Release PR
 
 on:
@@ -10,7 +12,8 @@ on:
 jobs:
   automerge:
     runs-on: ubuntu-latest
-    if: github.actor == 'virajayarathna'
+    
+    if: github.event.pull_request.user.login == 'virajayarathna'
 
     permissions:
       pull-requests: write
