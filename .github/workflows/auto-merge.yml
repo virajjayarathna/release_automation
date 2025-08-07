@@ -12,7 +12,7 @@ on:
 jobs:
   automerge:
     runs-on: ubuntu-latest
-    if: github.event.pull_request.user.login == 'virajayarathna'
+    if: github.event.pull_request.user.login == 'virajjayarathna'
 
     permissions:
       pull-requests: write
