@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.11](https://github.com/virajjayarathna/release_automation/compare/v1.0.10...v1.0.11) (2025-08-07)
+
+
+### Bug Fixes
+
+* restore condition for auto-merge based on user login and clean u… ([dc7607f](https://github.com/virajjayarathna/release_automation/commit/dc7607fcfc009fd39ad57dec500bdbd93e22b871))
+
 ## [1.0.10](https://github.com/virajjayarathna/release_automation/compare/v1.0.9...v1.0.10) (2025-08-07)
 
 
