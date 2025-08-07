@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.11](https://github.com/virajjayarathna/release_automation/compare/v1.0.10...v1.0.11) (2025-08-07)
+
+
+### Bug Fixes
+
+* restore condition for auto-merge based on user login and clean u… ([dc7607f](https://github.com/virajjayarathna/release_automation/commit/dc7607fcfc009fd39ad57dec500bdbd93e22b871))
+* update auto-merge workflow to refine user login condition ([caa5212](https://github.com/virajjayarathna/release_automation/commit/caa5212c1d5df0b9681a3d85e5839abab8056fce))
+* update auto-merge workflow to refine user login condition ([32db9b9](https://github.com/virajjayarathna/release_automation/commit/32db9b9b060da58e1d68026392b67a69d7ac6865))
+
 ## [1.0.10](https://github.com/virajjayarathna/release_automation/compare/v1.0.9...v1.0.10) (2025-08-07)
 
 
