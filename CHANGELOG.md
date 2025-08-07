@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/virajjayarathna/release_automation/compare/v1.0.3...v1.0.4) (2025-08-07)
+
+
+### Bug Fixes
+
+* add auto-merge workflow for release pull requests ([ac3ee14](https://github.com/virajjayarathna/release_automation/commit/ac3ee147cd37bdb2a64747e8350128895a28156c))
+
 ## [1.0.3](https://github.com/virajjayarathna/release_automation/compare/v1.0.2...v1.0.3) (2025-08-07)
 
 
