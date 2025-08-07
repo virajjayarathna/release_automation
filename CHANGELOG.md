@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.10](https://github.com/virajjayarathna/release_automation/compare/v1.0.9...v1.0.10) (2025-08-07)
+
+
+### Bug Fixes
+
+* update auto-merge workflow to enhance functionality ([7e87161](https://github.com/virajjayarathna/release_automation/commit/7e871615d649cc48889d67fd0b6e606ca1895529))
+* update auto-merge workflow to enhance functionality ([274a5ea](https://github.com/virajjayarathna/release_automation/commit/274a5ea3ef7171bc90fecf4013087301041b9f01))
+
 ## [1.0.9](https://github.com/virajjayarathna/release_automation/compare/v1.0.8...v1.0.9) (2025-08-07)
 
 
