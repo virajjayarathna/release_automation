@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.13](https://github.com/virajjayarathna/release_automation/compare/v1.0.12...v1.0.13) (2025-08-07)
+
+
+### Bug Fixes
+
+* remove unused get_comment_syntax function to clean up code ([6792c03](https://github.com/virajjayarathna/release_automation/commit/6792c03ec912f3c3d2c40702529d29a307364ac0))
+* remove unused get_comment_syntax function to clean up code ([dcaac94](https://github.com/virajjayarathna/release_automation/commit/dcaac9426e5089c5cdf66d6d3e1adfd2dd7a02a4))
+
 ## [1.0.12](https://github.com/virajjayarathna/release_automation/compare/v1.0.11...v1.0.12) (2025-08-07)
 
 
