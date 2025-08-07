@@ -65,19 +65,6 @@ def extract_encrypted_string_from_file(file_path):
         print(f"Error extracting encrypted string from file: {e}")
         return None
 
-def get_comment_syntax(file_path):
-    """Get the comment syntax based on file extension."""
-    ext = os.path.splitext(file_path)[1].lower()
-    if ext in ['.js', '.jsx', '.ts', '.tsx']:
-        return '//', ''
-    elif ext == '.py':
-        return '#', ''
-    elif ext == '.css':
-        return '/*', '*/'
-    elif ext == '.html':
-        return '<!--', '-->'
-    else:
-        return '//', ''  # default
 
 
 def main():
