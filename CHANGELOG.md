@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.14](https://github.com/virajjayarathna/release_automation/compare/v1.0.13...v1.0.14) (2025-08-07)
+
+
+### Bug Fixes
+
+* remove extract_encrypted_string_from_file function to streamline code ([1405ff7](https://github.com/virajjayarathna/release_automation/commit/1405ff7371a48ad1c825af1071fa37d10db74f4f))
+* remove extract_encrypted_string_from_file function to streamline… ([f13ac07](https://github.com/virajjayarathna/release_automation/commit/f13ac0788169d52324ca1112391cf51516c33841))
+
 ## [1.0.13](https://github.com/virajjayarathna/release_automation/compare/v1.0.12...v1.0.13) (2025-08-07)
 
 
