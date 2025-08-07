@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.15](https://github.com/virajjayarathna/release_automation/compare/v1.0.14...v1.0.15) (2025-08-07)
+
+
+### Bug Fixes
+
+* remove unused get_comment_pattern function to clean up code ([be37507](https://github.com/virajjayarathna/release_automation/commit/be37507f141436d0cbbe568b264619894166b1d8))
+* remove unused get_comment_pattern function to clean up code ([06b2d13](https://github.com/virajjayarathna/release_automation/commit/06b2d13fce0e3fd4a12dc56b4aa7bafb27ec0a16))
+
 ## [1.0.14](https://github.com/virajjayarathna/release_automation/compare/v1.0.13...v1.0.14) (2025-08-07)
 
 
