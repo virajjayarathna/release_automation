@@ -17,6 +17,13 @@ jobs:
       issues: write
 
     steps:
+      # This checkout step is required.
+      # fetch-depth: 0 fetches the entire history, which release-please needs.
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - name: Run Release Please
         id: release
         uses: googleapis/release-please-action@v4
