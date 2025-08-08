@@ -1,5 +1,20 @@
 # Changelog
 
+## [6.0.0](https://github.com/virajjayarathna/release_automation/compare/v5.0.0...v6.0.0) (2025-08-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove support for legacy API v2
+* remove support for legacy API v2
+* remove support for legacy API v2
+
+### Features
+
+* remove support for legacy API v2 ([bd53ac0](https://github.com/virajjayarathna/release_automation/commit/bd53ac012b0b7a4ddad41e58eab55d1b2f10bd6f))
+* remove support for legacy API v2 ([bd53ac0](https://github.com/virajjayarathna/release_automation/commit/bd53ac012b0b7a4ddad41e58eab55d1b2f10bd6f))
+* remove support for legacy API v2 ([392ff4f](https://github.com/virajjayarathna/release_automation/commit/392ff4f08e4972b6a5e480c1dfd571b9aecb2d51))
+
 ## [5.0.0](https://github.com/virajjayarathna/release_automation/compare/v4.0.0...v5.0.0) (2025-08-08)
 
 
