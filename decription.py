@@ -9,7 +9,6 @@ import sys
 def decrypt_encoded_string(encoded_string, key):
 
 
-
 def main():
     # Get input from user
     file_path = input("Enter file path: ")
