@@ -1,5 +1,16 @@
 # Changelog
 
+## [5.0.0](https://github.com/virajjayarathna/release_automation/compare/v4.0.0...v5.0.0) (2025-08-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* test first number
+
+### Features
+
+* test first number ([a020dac](https://github.com/virajjayarathna/release_automation/commit/a020dacffcab32bb0750b4acdc5b3a51eff70db3))
+
 ## [4.0.0](https://github.com/virajjayarathna/release_automation/compare/v3.0.0...v4.0.0) (2025-08-08)
 
 
