@@ -7,21 +7,6 @@ import sys
 
 
 def decrypt_encoded_string(encoded_string, key):
-    """Decrypt the encoded string back to the project name using AES-256-CBC."""
-    try:
-        # Generate AES-256 key by hashing the input key string
-        hashed_key = hashlib.sha256(key.encode()).digest()
-        aes_key = hashed_key[:32]  # AES-256 requires a 32-byte key
-
-        # Decode the base64 encoded string
-        combined = base64.b64decode(encoded_string)
-
-        # Extract IV (first 16 bytes) and encrypted data
-        iv = combined[:16]
-        encrypted_data = combined[16:]
-
-
-        cipher = AES.new(aes_key, AES.MODE_CBC, iv)
 
 
 def main():
