@@ -1,5 +1,12 @@
 # Changelog
 
+## [10.1.0](https://github.com/virajjayarathna/release_automation/compare/v10.0.0...v10.1.0) (2025-08-08)
+
+
+### Features
+
+* Merge pull request [#78](https://github.com/virajjayarathna/release_automation/issues/78) from virajjayarathna/dev ([65e3493](https://github.com/virajjayarathna/release_automation/commit/65e34931df560b64b4d81f8921d7623116922f93))
+
 ## [10.0.0](https://github.com/virajjayarathna/release_automation/compare/v9.0.0...v10.0.0) (2025-08-08)
 
 
