@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/virajjayarathna/release_automation/compare/v2.0.1...v2.0.2) (2025-08-08)
+
+
+### Bug Fixes
+
+* remove return statement from decrypt_encoded_string function to prevent errors ([#46](https://github.com/virajjayarathna/release_automation/issues/46)) ([753d5b8](https://github.com/virajjayarathna/release_automation/commit/753d5b8ace547b0884ddfcc90e32debcc39481f8))
+
 ## [2.0.1](https://github.com/virajjayarathna/release_automation/compare/v2.0.0...v2.0.1) (2025-08-08)
 
 
