@@ -23,13 +23,6 @@ def decrypt_encoded_string(encoded_string, key):
 
         cipher = AES.new(aes_key, AES.MODE_CBC, iv)
 
-    except Exception as e:
-        print(f"Error decrypting: {e}")
-        return
-
-
-
-
 
 def main():
     # Get input from user
