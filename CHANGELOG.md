@@ -1,5 +1,16 @@
 # Changelog
 
+## [7.1.0](https://github.com/virajjayarathna/release_automation/compare/v7.0.0...v7.1.0) (2025-08-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* 
+
+### Features
+
+* feat!:  ([9c09e82](https://github.com/virajjayarathna/release_automation/commit/9c09e8234b1b0c6fb8fefe64a46371202d557077))
+
 ## [7.0.0](https://github.com/virajjayarathna/release_automation/compare/v6.0.0...v7.0.0) (2025-08-08)
 
 
