@@ -1,5 +1,16 @@
 # Changelog
 
+## [10.0.0](https://github.com/virajjayarathna/release_automation/compare/v9.0.0...v10.0.0) (2025-08-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* Merge pull request #76 from virajjayarathna/dev
+
+### major
+
+* Merge pull request [#76](https://github.com/virajjayarathna/release_automation/issues/76) from virajjayarathna/dev  ([d05e295](https://github.com/virajjayarathna/release_automation/commit/d05e295c1280f2ad4b0578d55385d6b4c32139c5))
+
 ## [9.0.0](https://github.com/virajjayarathna/release_automation/compare/v8.0.1...v9.0.0) (2025-08-08)
 
 
