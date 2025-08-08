@@ -23,8 +23,6 @@ def decrypt_encoded_string(encoded_string, key):
 
         cipher = AES.new(aes_key, AES.MODE_CBC, iv)
 
-
-        return decrypted.decode('utf-8')
     except Exception as e:
         print(f"Error decrypting: {e}")
         return
