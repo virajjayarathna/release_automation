@@ -1,5 +1,16 @@
 # Changelog
 
+## [8.0.0](https://github.com/virajjayarathna/release_automation/compare/v7.1.0...v8.0.0) (2025-08-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* Merge pull request #69 from virajjayarathna/dev
+
+### test6
+
+* Merge pull request [#69](https://github.com/virajjayarathna/release_automation/issues/69) from virajjayarathna/dev ([2efe573](https://github.com/virajjayarathna/release_automation/commit/2efe5730f7b59a35e71c3327764b97cbae170dc4))
+
 ## [7.1.0](https://github.com/virajjayarathna/release_automation/compare/v7.0.0...v7.1.0) (2025-08-08)
 
 
