@@ -13,9 +13,8 @@ jobs:
   automerge:
     runs-on: ubuntu-latest
     
-    # This correctly identifies the specific Release PR
     if: >-
-      github.event.pull_request.user.login == 'virajayarathna' &&
+      github.event.pull_request.user.login == 'virajhayarathna' &&
       github.event.pull_request.head.ref == 'release-please--branches--main'
 
     permissions:
@@ -26,8 +25,6 @@ jobs:
       - name: Auto-merge Release PR
         uses: pascalgn/automerge-action@v0.16.2
         env:
-          # ✅ THIS IS THE FINAL FIX: Use your PAT to perform the merge.
-          # This allows the subsequent workflow to be triggered.
           GITHUB_TOKEN: "${{ secrets.AUTO_RELEASE_PAT }}"
           
           MERGE_METHOD: "squash"
