@@ -1,5 +1,12 @@
 # Changelog
 
+## [8.0.1](https://github.com/virajjayarathna/release_automation/compare/v8.0.0...v8.0.1) (2025-08-08)
+
+
+### Bug Fixes
+
+* fix:  ([5c47279](https://github.com/virajjayarathna/release_automation/commit/5c47279f05affc5bee52e3b46e94ddec2fdb25e7))
+
 ## [8.0.0](https://github.com/virajjayarathna/release_automation/compare/v7.1.0...v8.0.0) (2025-08-08)
 
 
