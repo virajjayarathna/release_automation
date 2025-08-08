@@ -1,5 +1,20 @@
 # Changelog
 
+## [7.0.0](https://github.com/virajjayarathna/release_automation/compare/v6.0.0...v7.0.0) (2025-08-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* check first number update
+* Merge pull request #62 from virajjayarathna/dev
+* check first number update
+
+### Features
+
+* check first number update ([1ec7daa](https://github.com/virajjayarathna/release_automation/commit/1ec7daa3d6b72485dcba07354d137b75b5caa0a8))
+* check first number update ([9841571](https://github.com/virajjayarathna/release_automation/commit/984157197b1f6bdc969606c9bf911659b53db26e))
+* Merge pull request [#62](https://github.com/virajjayarathna/release_automation/issues/62) from virajjayarathna/dev ([1ec7daa](https://github.com/virajjayarathna/release_automation/commit/1ec7daa3d6b72485dcba07354d137b75b5caa0a8))
+
 ## [6.0.0](https://github.com/virajjayarathna/release_automation/compare/v5.0.0...v6.0.0) (2025-08-08)
 
 
