@@ -7,5 +7,3 @@ from Crypto.Util.Padding import unpad
 
 
 def main():
-    # Get input from user
-asa
