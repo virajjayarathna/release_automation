@@ -20,10 +20,10 @@ def decrypt_encoded_string(encoded_string, key):
         iv = combined[:16]
         encrypted_data = combined[16:]
 
-        # Create AES cipher object with CBC mode
+
         cipher = AES.new(aes_key, AES.MODE_CBC, iv)
 
-        # Decrypt and remove padding
+
         decrypted_padded = cipher.decrypt(encrypted_data)
         decrypted = unpad(decrypted_padded, AES.block_size)
 
