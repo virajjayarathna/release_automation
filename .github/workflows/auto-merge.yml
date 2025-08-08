@@ -1,5 +1,3 @@
-# In .github/workflows/auto-merge.yml
-
 name: Auto Merge Release PR
 
 on:
