@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.0.1](https://github.com/virajjayarathna/release_automation/compare/v2.0.0...v2.0.1) (2025-08-08)
+
+
+### Bug Fixes
+
+* Merge pull request [#44](https://github.com/virajjayarathna/release_automation/issues/44) from virajjayarathna/dev ([3c7fcbc](https://github.com/virajjayarathna/release_automation/commit/3c7fcbca1df597993c0dd86b94f672efadb88967))
+* remove decryption logic from decrypt_encoded_string function to … ([3c7fcbc](https://github.com/virajjayarathna/release_automation/commit/3c7fcbca1df597993c0dd86b94f672efadb88967))
+* remove decryption logic from decrypt_encoded_string function to simplify code ([64a8d17](https://github.com/virajjayarathna/release_automation/commit/64a8d176312255bb551d016d80cce04f469eb207))
+
 ## [1.0.15](https://github.com/virajjayarathna/release_automation/compare/v1.0.14...v1.0.15) (2025-08-07)
 
 
