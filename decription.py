@@ -3,10 +3,7 @@ import base64
 import hashlib
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
-import sys
 
-
-def decrypt_encoded_string(encoded_string, key):
 
 
 def main():
