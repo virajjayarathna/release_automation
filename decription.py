@@ -16,14 +16,3 @@ def main():
         print(f"Error: File {file_path} does not exist.")
         return
     
-    # Extract the encrypted string from file
-    encrypted_string = extract_encrypted_string_from_file(file_path)
-    if not encrypted_string:
-        print("Error: Failed to extract the encrypted string.")
-        return
-    
-    print(f"Found encrypted string: {encrypted_string}")
-    
-
-if __name__ == "__main__":
-    main()
