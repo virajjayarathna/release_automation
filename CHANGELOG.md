@@ -1,5 +1,16 @@
 # Changelog
 
+## [9.0.0](https://github.com/virajjayarathna/release_automation/compare/v8.0.1...v9.0.0) (2025-08-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* test major
+
+### major
+
+* test major ([0ebfa0f](https://github.com/virajjayarathna/release_automation/commit/0ebfa0f383e75176c58bc10cfdc19d30212db405))
+
 ## [8.0.1](https://github.com/virajjayarathna/release_automation/compare/v8.0.0...v8.0.1) (2025-08-08)
 
 
