@@ -6,4 +6,3 @@ from Crypto.Util.Padding import unpad
 
 
 
-def main():
