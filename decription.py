@@ -5,6 +5,7 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
 
 
+
 def main():
     # Get input from user
     file_path = input("Enter file path: ")
